@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (hw317.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  Main.c
+  hw317.vcxproj -> E:\高階程式語言實習\第三次作業1023\hw1023\hw319\Debug\hw319.exe
